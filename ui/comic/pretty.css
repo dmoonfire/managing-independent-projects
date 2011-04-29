@@ -63,8 +63,8 @@ html>body div#controls {background: transparent; position: fixed; padding: 0; to
 #guru div {border: solid 3px red; padding: 4px; font-family: monospace; font-size: 60%; width: auto; height: auto; color: red; text-align: center;}
 
 #slide0 {padding-top: 3.5em; font-size: 90%;}
-#slide0 h1 {position: static; margin: 1em 0 0; padding: 0; font: bold 3em Verdana, Arial, Helvetica, sans-serif; font-variant: small-caps; text-shadow: 0.1em 0.1em 0.1em #363;  white-space: normal; color: yellow; background-color: transparent;}
-#slide0 h2 {font: bold italic 1em Arial, Helvetica, sans-serif; margin: 0.25em;}
+#slide0 h1 {position: static; margin: 1em 0 0; padding: 0; font: bold 3em 'AlterEgo BB', Verdana, Arial, Helvetica, sans-serif; font-variant: small-caps; text-shadow: 0.1em 0.1em 0.1em #363;  white-space: normal; color: yellow; background-color: transparent;}
+#slide0 h2 {font: bold italic 1em 'WebLetterer Pro BB', 'Comic Sans MS', 'Comic Sans', Verdana, Arial, Helvetica, sans-serif; margin: 0.25em;}
 #slide0 h3 {margin-top: 1.5em; font-size: 1.5em;}
 #slide0 h4 {margin-top: 0; font-size: 1em;}
 
